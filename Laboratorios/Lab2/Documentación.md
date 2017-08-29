@@ -24,3 +24,8 @@ Se utilizó una clase punto que más tarde serviría para agregarse a una clase 
 ![Clase Punto](https://lh4.googleusercontent.com/dxqfveR6KdMskzdWr_RUo9UZAkNrmrPfYBA45d8LvrWP4CmgjO2B3hQz7lIKT5maNsHBMGjqx_qUIpY=w1366-h662)
 
 ![Con titulo](https://lh4.googleusercontent.com/XiR-oDrsZ75FUfAFxideknDrXLrYNpFaeWFIKHkoAPLemJIesiJAuF0Q28Vf88P1NN82cyz8nzmBIrU=w1366-h662)
+
+Programa 2
+-----------
+Se utilizó la herencia para este programa, con una clase persona, siendo la clase padre, que hereda a las clases profesor y estudiar.
+
