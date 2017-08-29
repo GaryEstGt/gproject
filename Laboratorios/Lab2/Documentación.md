@@ -21,4 +21,4 @@ Programa 1
 -----------
 Se utilizó una clase punto que más tarde serviría para agregarse a una clase linea, ya que esta usaría sus propiedades.
 
-![Con titulo](https://drive.google.com/drive/folders/0Bxpg66UOtlB9bEhVVE5XLVJabVk)
+![Con titulo](https://lh5.googleusercontent.com/xccQ2T_4ucxFmTRGGDlnA0xJlXxc71lJq6YPGlefDkCfJYnu4jpbfV-96sa_SwCnGXG9-C-0Gp9p9cs=w1366-h662)
