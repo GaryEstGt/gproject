@@ -12,6 +12,13 @@ Que es eclipseche?
 ¿Que diferencia hay entre agregación y herencia?
 ------------------------------------------------
 *Agregación: es convertir una clase en una propiedad de otra, es decir, agregarla como propiedad a otra clase mientras que Herencia: es "heredar" propiedades a una clase diferente que tambien necesitara las propiedades de la clase padre y agregara más.
+
 Que relación existe entre herencia y polimorfismo?
 --------------------------------------------------
 El polimorfismo se aplica en la herencias y para utilizar el polimorfismo se necesita una jerarquia de clases.
+
+Programa 1
+-----------
+Se utilizó una clase punto que más tarde serviría para agregarse a una clase linea, ya que esta usaría sus propiedades.
+
+![Con titulo](https://1drv.ms/i/s!As5W2Cd7rh7ihymYjsYD72wTeaXC)
