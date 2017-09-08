@@ -11,6 +11,7 @@ Documentacion Lab 3
 -----------------------------
 
 es una clase de la cual nunca se hace una instancia y se suele utilizar únicamente para unificar campor y procesos.
+
 ¿Que diferencia hay entre herencia e interfaces?
 -------------------------------------------------
 
